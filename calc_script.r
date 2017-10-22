@@ -11,10 +11,10 @@ library("grid")
 library("fossil")
 
 state="Sokoto"
-#path="\\SRV02\RL-Institut\04_Projekte\145_Nigeria_Electrification\04-Projektinhalte\08_WSIV_Least-Cost-Analysis\Grid_extension\01_Grextool"
+
 #path="C:\\Users\\Catherina\\Documents\\Grid_extension\\01_Grextool" #thinkpad
 path="C:\\01_Grextool"  #pc38
-#path <-"E:\\remote\\01_Grextool" #thunderpc
+
 setwd(path)
 
 #create folder for intermediate results

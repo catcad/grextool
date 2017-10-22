@@ -7,7 +7,7 @@ create_decision_surface= function (roipath,grid_buffersize,grid_impact,road_buff
   #..
   
   #example:
-  # path="C:\\Users\\Catherina\\Documents\\Grid_extension\\01_Grextool\\prepared_input\\Ogun"
+  # path="C:\\Users\\Catherina\\Documents\\Grid_extension\\01_Grextool"
   # create_decision_surface(path,90,0,90,-0.75,0.5,c(0,11,0, 11,20,0.25, 21,41,0, 41,60,0.5, 61,101,0))
   
   
